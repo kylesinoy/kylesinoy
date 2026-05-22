@@ -9,7 +9,7 @@ I build real business systems — internal tools, REST APIs, and AI-powered appl
 - **AI & APIs:** Gemini API (Google AI Studio), Prompt Engineering, familiar with Claude and ChatGPT (Pro)
 - **Frontend:** HTML5, CSS3, JavaScript — exposure to React, Vite, Tailwind CSS through project development
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
-- **Database:** MongoDB, MySQL, Firebase
+- **Database:** MongoDB, MySQL, Firebase, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Render, Vercel,ThunderClient
 
 ## 📦 Projects
