@@ -10,7 +10,7 @@ I build real business systems — internal tools, REST APIs, and AI-powered appl
 - **Frontend:** HTML5, CSS3, JavaScript — exposure to React, Vite, Tailwind CSS through project development
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication
 - **Database:** MongoDB, MySQL, Firebase
-- **Tools:** Git, GitHub, VS Code, Render, Vercel
+- **Tools:** Git, GitHub, VS Code, Render, Vercel,ThunderClient
 
 ## 📦 Projects
 
