@@ -31,5 +31,5 @@ Full REST API with JWT authentication, MongoDB persistence, and environment vari
 🔗 [Live API](https://node-auth-api-uazj.onrender.com/) • [GitHub](https://github.com/kylesinoy/node-auth-api)
 
 ## 📫 Contact
-- 📧 kcsinoy@up.edu.ph
+- 📧 kyle.sinoy.dev@gmail.com
 - 📍 Quezon City, Philippines
